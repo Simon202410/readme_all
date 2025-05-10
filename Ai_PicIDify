@@ -1,0 +1,9 @@
+PrivacySection(title: "1. 信息收集".localized, content: "我们不会收集你的任何信息，但是照片会临时传到服务器进行图像处理，所以上传到服务器的信息包括但不限于：\n• 您上传的照片\n• 设备信息\n• 使用记录\n• 位置信息（如适用）".localized)
+                    
+                    PrivacySection(title: "2. 信息使用".localized, content: "我们使用上传到服务器的信息：\n• 提供Ai图像处理服务\n• 满足您的请求服务需求\n• 发送服务通知\n• 防止欺诈和滥用".localized)
+                    
+                    PrivacySection(title: "3. 信息共享".localized, content: "我们不会出售您的个人信息。仅在以下情况下，我们可能会共享您的信息：\n• 获得您的明确同意\n• 遵守法律法规要求\n• 保护我们的合法权益".localized)
+                    
+                    PrivacySection(title: "4. 信息安全".localized, content: "我们采取多种安全措施保护您的个人信息，包括：\n• 数据7天自动过期\n• 严格访问控制\n• 安全审计\n• 定期安全评估".localized)
+                    
+                    PrivacySection(title: "5. 您的权利".localized, content: "您有权：\n• 访问您的个人信息\n• 更正不准确的信息\n• 删除您的信息\n• 撤回同意\n• 投诉举报
